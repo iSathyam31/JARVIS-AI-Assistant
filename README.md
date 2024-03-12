@@ -17,4 +17,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 # Acknowledgments
 - Special thanks to the open-source community for their contributions and inspiration.
-Thank you for using JARVIS! We hope it makes your life a little easier and more enjoyable. If you have any questions or feedback, don't hesitate to reach out.
+Thank you for using JARVIS! We hope it makes your life a little easier and more enjoyable. If you have any questions or feedback, don't hesitate to reach out!!
